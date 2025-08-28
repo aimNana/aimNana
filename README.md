@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Domiziana  
+# 👋 Hi, I’m Domiziana (aka **aim0d**) 
 
 Aspiring **full-stack developer** with a passion for creating both **web** and **software** applications.  
 I’m constantly learning and improving my skills to become a versatile and well-rounded developer.  
